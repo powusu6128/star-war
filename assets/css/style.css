@@ -1,0 +1,125 @@
+*{
+
+	box-sizing: border-box;
+
+}
+
+body{
+
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+	color:orange;
+
+	line-height: 23px;
+
+	font-size: 24px;
+
+	background-image: url(../../assets/images/backgd.jpg);
+
+}
+
+h2{
+    font-size: 22px;
+    line-height:23px;
+}
+
+h4 #2 {
+    padding:0px;
+    margin:0px;
+}
+
+btn-primary{
+    padding:5px;
+}
+
+header{
+
+	min-width: 250px;
+
+	height: auto;
+
+	padding: 30px;
+
+	color: white;
+
+	font-size: 50px;
+
+	text-align: right;
+
+	font-family: 'Bad Script', cursive;
+
+}
+
+h3{
+
+    text-align: center;
+    
+    margin-top:10px;
+
+    height:90px;
+
+    margin-bottom: 0px;
+
+}
+
+button img{
+
+	width: 140px;
+
+	height: 130px;
+
+}
+
+#button-1, #button-2, #button-3, #button-4{
+
+	width: 160px;
+
+    height: 200px;
+    
+    margin-right: 5px;
+
+    margin-bottom: 5px;
+
+    padding:10px;
+
+}
+
+
+
+#yourCharacter button{
+
+	background-color: green; 
+
+}
+
+#enemiesAvailable button{
+
+	background-color: red; 
+
+}
+
+#defender button{
+
+	background-color: black; 
+
+}
+
+#button-attack{
+
+	background-color: red;
+
+	color: white;
+
+	width: 100%;
+
+}
+
+#button-restart{
+
+	background-color: blue;
+
+	color: white;
+
+	width: 100%;
+
+}
